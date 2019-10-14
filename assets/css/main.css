@@ -1,0 +1,37 @@
+/*Test modifiche per i tag generico*/
+header{
+  text-align: center;
+}
+
+h3{
+  font-style: oblique;
+  text-align: center;
+  color: #1c39bb;
+}
+
+section{
+  text-align: left;
+}
+
+hr{
+  border-color: #1c39bb;
+}
+
+
+ /*test usando il selettore id, si trova alla riga 12 .html*/
+#title{
+  background-color: lightgray;
+  font-family: fantasy;
+  color: blue;
+  font-size: 40px;
+}
+
+
+/*test usando selettore class, si trova nella riga 19 e 83 .html */
+.text_center{
+  text-align: center;
+}
+/* selettore class, si trova riga 24 25.html*/
+.text_cursive{
+  font-style: italic;
+}

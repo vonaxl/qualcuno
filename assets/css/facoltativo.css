@@ -1,0 +1,45 @@
+
+section{
+  font-family: arial;
+  padding: 5px;
+  font-size: 13px;
+}
+
+/*Ho nascosto la hr dalla main.css */
+hr{
+  display: none;
+}
+
+h1{
+  background-color: #0c3953;
+  color: white;
+  font-family: fantasy;
+  font-size: 40px;
+}
+
+h3{
+  background-color: #0c3953;
+  text-align: right;
+  border: 1px solid black;
+  padding-right: 5px;
+  font-family: italic;
+  color: white;
+  font-size: 18px;
+}
+
+footer{
+  padding: 3px;
+  font-size: 10px;
+}
+
+ /* volevo cercare di adeguare il layout, chiedo scusa se sono andato avanti */
+.wrapper{
+  max-width: 800px;
+  margin: auto;
+  border: 2px solid black;
+  background-color: #bcd9ea;
+}
+
+.text_center{
+  text-align: center;
+}
